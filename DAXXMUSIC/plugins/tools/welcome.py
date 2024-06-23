@@ -4,7 +4,7 @@ from PIL import Image, ImageChops, ImageDraw, ImageEnhance, ImageFont
 from pyrogram import enums, filters
 from pyrogram.types import ChatMemberUpdated, InlineKeyboardButton, InlineKeyboardMarkup
 
-from VIPMUSIC import app
+from DAXXMUSIC import app
 
 random_photo = [
     "https://telegra.ph/file/1949480f01355b4e87d26.jpg",
